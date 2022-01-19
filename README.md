@@ -10,3 +10,15 @@ A Tensorflow implementation of DCGAN proposed in the paper [Unsupervised Represe
     1. Used strided convolutions (discriminator) and fractional-strided convolutions (generator)
     2. BatchNormalization in both the generator and the discriminator network
     3. Used LeakyReLU in both generator and discriminator and Tanh in last layer of generator
+
+# Results :
+<table>
+  <tr>
+    <td>Original</td>
+     <td>Generated</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/__results___4_1.png" width=270 height=480></td>
+    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/output.PNG" width=270 height=480></td>
+  </tr>
+ </table>
