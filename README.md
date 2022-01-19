@@ -18,7 +18,7 @@ A Tensorflow implementation of DCGAN proposed in the paper [Unsupervised Represe
      <td>Generated</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/__results___4_1.png" width=500 height=480></td>
-    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/output.PNG" width=500 height=480></td>
+    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/__results___4_1.png" width=500 height=400></td>
+    <td><img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/output.PNG" width=500 height=400></td>
   </tr>
  </table>
