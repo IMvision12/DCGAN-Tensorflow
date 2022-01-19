@@ -3,5 +3,5 @@ A Tensorflow implementation of DCGAN proposed in the paper [Unsupervised Represe
 
 ### Architecture of DCGAN :
 <p float="left">
-  <img src="https://github.com/IMvision12/Image-Super-Resolution/blob/main/Images/srgan.PNG" width="800" />
+  <img src="https://github.com/IMvision12/DCGAN-Tensorflow/blob/main/images/dcgan.PNG" width="800" />
 </p>  
